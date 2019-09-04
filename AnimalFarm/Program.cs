@@ -11,7 +11,7 @@ namespace AnimalFarm {
             cat.Speak();
 
             var cot = new Cot(new Meoo());
-            cot.Speak();
+            cot.Speak(); 
         }
     }
 }
